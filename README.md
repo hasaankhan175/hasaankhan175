@@ -1,81 +1,42 @@
-<!-- Header Section -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00C4FF;">Hasaan Khan</span></h1>
-<p align="center">
-🎓 <b>Data Science Student</b> at <b>Dawood University of Karachi</b><br>
-💻 Passionate about <b>Data, AI, and Machine Learning</b>
-</p>
-
-<!-- Optional Banner (upload your GIF/banner to assets folder) -->
-<p align="center">
-  <img src="https://github.com/hasaankhan175/hasaankhan175/blob/main/assets/banner.gif" width="600" alt="Data Science Banner">
-</p>
+# 👋 Hi, I'm Hasaan Khan  
+🎓 **Data Science Student at Dawood University of Engineering & Technology, Karachi**  
+💡 Passionate about **Data Science, Machine Learning, and AI-driven Insights**
 
 ---
 
-## 🚀 My Projects
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <a href="#" title="AI vs Human Text Detection">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python Icon"><br>
-    <b>🧠 AI vs Human Text Detection</b>
-  </a>
-  <p>Built NLP model using SpaCy, Transformers, and RandomForest.</p>
-</td>
-
-<td align="center" width="33%">
-  <a href="#" title="Taxi Fare Prediction Web App">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" alt="Streamlit Icon"><br>
-    <b>🚕 Taxi Fare Prediction App</b>
-  </a>
-  <p>Regression model with Streamlit deployment.</p>
-</td>
-
-<td align="center" width="33%">
-  <a href="#" title="Obesity Prediction System">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn Icon"><br>
-    <b>🩺 Obesity Prediction</b>
-  </a>
-  <p>Classification using Logistic Regression & SVM.</p>
-</td>
-</tr>
-</table>
-
----
-  ## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn" title="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" alt="Streamlit" title="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" alt="Power BI" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="50" alt="Seaborn" title="Seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" title="Matplotlib"/>
-</p>
-
-</p>
+## 🧠 About Me
+I’m a dedicated **Data Scientist in the making** with hands-on experience building real-world machine learning projects.  
+I enjoy transforming raw data into meaningful insights, automating processes, and creating intelligent systems that solve everyday problems.  
+I’m continuously learning and exploring **AI, deep learning, and data engineering tools** to grow in this field.
 
 ---
 
-## ✨ Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/hasaan-khan-422249289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:hasaankhan175@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
+## 🚀 Projects
+- 🧠 **AI vs Human Text Detection** — NLP project using SpaCy, Transformers, and RandomForest to detect AI-written text.  
+- 🚕 **Taxi Fare Prediction Web App** — End-to-end ML pipeline with Streamlit for deployment.  
+- 🩺 **Obesity Prediction System** — Classification model using Logistic Regression and SVM.  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasaankhan175&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## 🧰 Tech Stack
+Python | Pandas | NumPy | Scikit-learn | Streamlit | SQL | Power BI | Matplotlib | Seaborn
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasaankhan175&style=flat-square&color=00C4FF" alt="Profile Views Counter" />
-</p>
+---
+
+## 🌟 Summary
+I’m a passionate **Data Science undergraduate** who thrives on solving problems with data.  
+My goal is to work as a **Data Scientist or ML Engineer** where I can apply machine learning and analytics to drive business growth.  
+I believe in consistent learning, collaboration, and building impactful data-driven solutions.
+
+---
+
+## 🌐 Connect with Me
+📧 **Email:** [hasaankhan175@gmail.com](mailto:hasaankhan175@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/hasaan-khan-422249289](https://www.linkedin.com/in/hasaan-khan-422249289)  
+🐙 **GitHub:** [github.com/hasaankhan175](https://github.com/hasaankhan175)  
+🎥 **YouTube:** [DesignZing](https://www.youtube.com/@DesignZing)  
+📍 **Location:** Karachi, Pakistan  
+
+---
+
+⭐ *“Turning data into stories and stories into intelligent actions.”*
