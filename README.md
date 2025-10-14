@@ -40,9 +40,6 @@ I believe in consistent learning, collaboration, and building impactful data-dri
   <a href="https://github.com/hasaankhan175">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.youtube.com/@DesignZing">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
 </p>
 
 ---
