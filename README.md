@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Hasaan Khan  
+🎓 Data Science Student at Dawood University of Karachi  
+💻 Passionate about Data, AI, and Machine Learning  
 
-<!--
-**hasaankhan175/hasaankhan175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Projects
+- 🧠 [AI vs Human Text Detection](#) — Built NLP model using SpaCy, Transformers, and RandomForest  
+- 🚕 [Taxi Fare Prediction Web App](#) — End-to-end ML with Streamlit deployment  
+- 🩺 [Obesity Prediction System](#) — Classification using Logistic Regression and SVM  
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+Python | Pandas | NumPy | Scikit-learn | Streamlit | Matplotlib | Seaborn | SQL | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at [LinkedIn](https://www.linkedin.com/in/hasaan-khan-422249289)
