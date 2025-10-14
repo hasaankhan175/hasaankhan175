@@ -10,7 +10,6 @@
 </p>
 ---
 ## 🚀 My Projects
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
@@ -38,13 +37,10 @@
 </table>
 ---
 ## 🧰 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,streamlit,sqlite,matplotlib,seaborn,powerbi&theme=light" />
 </p>
-
 ---
-
 ## ✨ Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/hasaan-khan-422249289" target="_blank">
@@ -54,13 +50,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
-
 ---
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hasaankhan175&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasaankhan175&style=flat-square&color=00C4FF" alt="Profile Views Counter" />
 </p>
